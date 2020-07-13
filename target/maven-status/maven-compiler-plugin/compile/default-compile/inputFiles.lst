@@ -1,0 +1,6 @@
+/home/ingimar/repos/inkimar-github/Spring5Security/src/main/java/com/packtpub/book/ch02/springsecurity/config/ApplicationConfig.java
+/home/ingimar/repos/inkimar-github/Spring5Security/src/main/java/com/packtpub/book/ch02/springsecurity/config/WebApplicationConfig.java
+/home/ingimar/repos/inkimar-github/Spring5Security/src/main/java/com/packtpub/book/ch02/springsecurity/config/SecurityWebApplicationInitializer.java
+/home/ingimar/repos/inkimar-github/Spring5Security/src/main/java/com/packtpub/book/ch02/springsecurity/config/SpringSecurityConfig.java
+/home/ingimar/repos/inkimar-github/Spring5Security/src/main/java/com/packtpub/book/ch02/springsecurity/config/SpringMvcWebApplicationInitializer.java
+/home/ingimar/repos/inkimar-github/Spring5Security/src/main/java/com/packtpub/book/ch02/springsecurity/controller/HomeController.java
