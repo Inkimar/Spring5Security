@@ -1,9 +1,13 @@
-https://github.com/PacktPublishing/Hands-On-Spring-Security-5-for-Reactive-Applications/tree/master/Chapter02/jetty-db-basic-authentication/src/main/java/com/packtpub/book/ch02/springsecurity/config
+Following the book:
+1. Hadns-on : 'Spring Security 5 for Reactive Applications'
+2. github account ->  https://github.com/PacktPublishing/Hands-On-Spring-Security-5-for-Reactive-Applications/tree/master/Chapter02/jetty-db-basic-authentication/src/main/java/com/packtpub/book/ch02/springsecurity/config
 
 
 ***
+
 database = spring5 (2 tables)
-- username = admin, password = admin@password
+
+- when going to localhost:8080 -> `username = admin`, `password = admin@password`
 
 
 ```
