@@ -1,6 +1,11 @@
 Following the book:
-1. Hadns-on : 'Spring Security 5 for Reactive Applications'
-2. github account ->  https://github.com/PacktPublishing/Hands-On-Spring-Security-5-for-Reactive-Applications/tree/master/Chapter02/jetty-db-basic-authentication/src/main/java/com/packtpub/book/ch02/springsecurity/config
+1. book -> 'Hands-on : Spring Security 5 for Reactive Applications'
+2. github account (chapter-2) -> https://github.com/PacktPublishing/Hands-On-Spring-Security-5-for-Reactive-Applications/tree/master/Chapter02/jetty-db-basic-authentication
+3. using IntelliJ IDEA
+4. Maven -> using `mvn jetty:run`
+
+***
+OBS: The first project in the book ,  https://github.com/PacktPublishing/Hands-On-Spring-Security-5-for-Reactive-Applications/tree/master/Chapter02/jetty-db-basic-authentication : does not work out of the box.
 
 
 ***
